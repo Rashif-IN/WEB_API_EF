@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{480E5954-97F4-414B-9512-E3C6FC657908}|Default">
+  <MonoDevelop.Ide.ItemProperties.WEBAPIEF PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="35" Column="21" />
+      <File FileName="PostContext.cs" Line="14" Column="1" />
+      <File FileName="Model/PostModel.cs" Line="16" Column="1" />
+      <File FileName="Controllers/PostController.cs" Line="58" Column="1" />
+      <File FileName="Migrations/20200228035630_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="Migrations/PostContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WEBAPIEF" expanded="True">
+            <Node name="WEBAPIEF" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
